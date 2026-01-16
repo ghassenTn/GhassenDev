@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋🇹🇳
+# Hi there, I'm [Ghassen saidi] 👋🇹🇳
 
 ### 👨‍💻 Python Developer & Linux Enthusiast
 I'm a developer , passionate about building backend systems, data analysis tools, and managing Linux servers. I also have a background in welding, which taught me precision and patience!
